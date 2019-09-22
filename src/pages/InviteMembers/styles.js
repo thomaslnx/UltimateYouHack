@@ -90,7 +90,7 @@ export const Header = styled.div`
 
           div.dropdown-menu {
             top: 66px;
-            left: 470px;
+            left: 575px;
           }
         }
       }
@@ -139,7 +139,7 @@ export const Header = styled.div`
 
           div.dropdown-menu {
             top: 66px;
-            left: 470px;
+            left: 575px;
           }
         }
       }
