@@ -11,7 +11,7 @@ import {
 import Footer from '../../components/Footer';
 import Header from '../../components/Header';
 
-import Mentor from '../../assets/icons/mentor.png';
+import Mentor from '../../assets/icons/mentor.jpeg';
 
 export default function Mentors() {
   return (
@@ -28,12 +28,11 @@ export default function Mentors() {
 
         <MentorsDescription>
           <div>
-            <span> Obi-Wan Kenobi </span>
+            <span> Paul </span>
 
             <p>
-              Hello, my name is Obi-Wan Kenobi, i am a expert developer. My
-              specialty is pitch mentoring. Passionat about technology and
-              innovation.
+              Hello, my name is Paul, i am a expert developer. My specialty is
+              pitch mentoring. Passionat about technology and innovation.
             </p>
           </div>
         </MentorsDescription>

@@ -154,11 +154,11 @@ class Member3 extends Component {
 
           <MentorsDescription>
             <div>
-              <span> Albert Wesker </span>
+              <span> Anderson Santos </span>
 
               <p>
-                Hello, my name is Albert Wesker, i am a full-stack developer. My
-                specialty is back-end. Passionate about technology and
+                Hello, my name is Anderson Santos, i am a full-stack developer.
+                My specialty is back-end. Passionate about technology and
                 innovation.
               </p>
             </div>

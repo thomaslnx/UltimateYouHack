@@ -32,7 +32,7 @@ export default function MyInvitations() {
             </div>
 
             <div className="user-data">
-              <p className="name"> Chris Redifield</p>
+              <p className="name"> Salompas Amorin </p>
               <p className="experience"> Back-End </p>
               <button> ACCEPTED </button>
             </div>
@@ -44,7 +44,7 @@ export default function MyInvitations() {
             </div>
 
             <div className="user-data">
-              <p className="name"> Jill Valentine </p>
+              <p className="name"> Vanessa Richmond </p>
               <p className="experience"> Back-End </p>
               <button className="rejected"> REJECTED </button>
             </div>
@@ -56,7 +56,7 @@ export default function MyInvitations() {
             </div>
 
             <div className="user-data">
-              <p className="name"> Albert Wesker </p>
+              <p className="name"> Anderson Santos </p>
               <p className="experience"> Back-End </p>
               <button className="pending"> PEDING </button>
             </div>
@@ -68,7 +68,7 @@ export default function MyInvitations() {
             </div>
 
             <div className="user-data">
-              <p className="name"> Claire Valentine </p>
+              <p className="name"> Rachel Silva </p>
               <p className="experience"> Back-End </p>
               <button> ACCEPTED </button>
             </div>
@@ -80,7 +80,7 @@ export default function MyInvitations() {
             </div>
 
             <div className="user-data">
-              <p className="name"> Chris Redifield</p>
+              <p className="name"> Salompas Amorin </p>
               <p className="experience"> Back-End </p>
               <button> ACCEPTED </button>
             </div>
@@ -92,7 +92,7 @@ export default function MyInvitations() {
             </div>
 
             <div className="user-data">
-              <p className="name"> Chris Redifield</p>
+              <p className="name"> Salompas Amorin</p>
               <p className="experience"> Back-End </p>
               <button> ACCEPTED </button>
             </div>

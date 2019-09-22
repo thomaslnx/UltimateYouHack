@@ -154,10 +154,10 @@ class Member2 extends Component {
 
           <MentorsDescription>
             <div>
-              <span> Jill Valentine </span>
+              <span> Vanessa Richmond </span>
 
               <p>
-                Hello, my name is Jill Valentine, i am a full-stack developer.
+                Hello, my name is Vanessa Richmond, i am a full-stack developer.
                 My specialty is back-end. Passionate about technology and
                 innovation.
               </p>

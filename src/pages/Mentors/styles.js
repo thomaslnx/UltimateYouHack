@@ -14,8 +14,8 @@ export const ContentContainer = styled.div`
   justify-content: center;
 
   img {
-    width: 330px;
-    height: 330px;
+    width: 360px;
+    height: 290px;
     border: none;
     margin-top: 25px;
   }

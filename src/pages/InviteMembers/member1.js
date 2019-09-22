@@ -154,10 +154,10 @@ class Member1 extends Component {
 
           <MentorsDescription>
             <div>
-              <span> Chirs Redfield </span>
+              <span> Salompas Amorin </span>
 
               <p>
-                Hello, my name is Chris Redfield, i am a full-stack developer.
+                Hello, my name is Salompas Amorin, i am a full-stack developer.
                 My specialty is back-end. Passionate about technology and
                 innovation.
               </p>

@@ -213,11 +213,11 @@ class InviteMemebers extends Component {
 
           <MentorsDescription>
             <div>
-              <span> Claire Redfield </span>
+              <span> Rachel Silva </span>
 
               <p>
-                Hello, my name is Claire Redfield, i am a full-stack developer.
-                My specialty is back-end. Passionate about technology and
+                Hello, my name is Rachel Silva, i am a full-stack developer. My
+                specialty is back-end. Passionate about technology and
                 innovation.
               </p>
             </div>

@@ -11,7 +11,7 @@ import {
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 
-import CharlieBrown from '../../assets/images/CharlieBrown.jpeg';
+import Hackathon from '../../assets/icons/Hackathon@2x.png';
 import PaperPlane from '../../assets/icons/paper_plane.svg';
 
 export default function Dashboard() {
@@ -24,16 +24,16 @@ export default function Dashboard() {
 
         <CarouselContainer>
           <Carousel>
-            <img src={CharlieBrown} alt="profile_pic" />
+            <img src={Hackathon} alt="dashboard_pic" />
 
             <strong> YouHack Hackathon 2019 </strong>
           </Carousel>
         </CarouselContainer>
 
         <NavCarousel>
-          <button data-index="0" style={{background: "#706FD3"}}>  </button>
-          <button data-index="1">  </button>
-          <button data-index="2">  </button>
+          <button data-index="0" style={{ background: '#706FD3' }}></button>
+          <button data-index="1"> </button>
+          <button data-index="2"> </button>
         </NavCarousel>
 
         <DashActivity>
