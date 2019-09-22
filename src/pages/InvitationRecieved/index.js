@@ -15,7 +15,7 @@ export default function MyInvitations() {
       <Header />
 
       <ContentContainer>
-        <h1> My Invitations </h1>
+        <h1> Invitations Received </h1>
         <Select>
           <option value="" hidden>
             Filtrar por:
